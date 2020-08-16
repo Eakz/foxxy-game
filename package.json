@@ -1,0 +1,16 @@
+{
+  "name": "build-a-game",
+  "version": "1.0.0",
+  "description": "Front End masters follow up project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vanilla",
+    "JS",
+    "game"
+  ],
+  "author": "EakzIT",
+  "license": "ISC"
+}
