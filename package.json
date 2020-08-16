@@ -4,7 +4,8 @@
   "description": "Front End masters follow up project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "parsel src/index.html",
+    "test": "jest"
   },
   "keywords": [
     "vanilla",
@@ -12,5 +13,8 @@
     "game"
   ],
   "author": "EakzIT",
-  "license": "ISC"
+  "license": "ISC",
+  "browserslist": [
+    "last 2 Firefox versions"
+  ]
 }
